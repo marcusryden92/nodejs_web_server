@@ -4,3 +4,9 @@
 20241216	15:24:51	c983f2f8-ecd8-4d9b-8d43-b28f8b1c9e04	GET	undefined	/css/style.css
 20241216	15:25:49	c339c3b2-9437-43bb-9bf6-f2051635c355	GET	undefined	/
 20241216	15:25:49	b1ad2ce9-fcf5-4820-9ec1-c5b17b91208e	GET	undefined	/css/style.css
+20241216	15:39:22	3a4eb905-2f01-486b-a6e1-fdf1b44b75f0	OPTIONS	https://lifeplan.lat	/
+20241216	15:39:22	2e86304e-19c2-4573-b225-19bcc76264bb	GET	https://lifeplan.lat	/
+20241216	15:53:54	6902fcf0-69e6-44cb-b328-62fd60797004	GET	undefined	/
+20241216	15:55:02	6bca496e-b6cb-4c38-b17b-7da6e2985251	GET	undefined	/
+20241216	15:55:02	20ebfbb2-6862-411d-b11e-c17352d15f5b	GET	undefined	/css/style.css
+20241216	15:59:41	e0ef3ba4-3212-4993-bd8a-7c17f392d481	GET	undefined	/
