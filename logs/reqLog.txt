@@ -1,0 +1,6 @@
+20241216	14:32:42	20b65460-a616-4c06-b27c-4050bc95850e	GET	undefined	/
+20241216	14:32:42	f5c01a0e-a9ac-45ae-861a-a566b67591a8	GET	undefined	/css/style.css
+20241216	15:24:51	c21266e1-bc8a-4141-9ee3-ede634484891	GET	undefined	/
+20241216	15:24:51	c983f2f8-ecd8-4d9b-8d43-b28f8b1c9e04	GET	undefined	/css/style.css
+20241216	15:25:49	c339c3b2-9437-43bb-9bf6-f2051635c355	GET	undefined	/
+20241216	15:25:49	b1ad2ce9-fcf5-4820-9ec1-c5b17b91208e	GET	undefined	/css/style.css
