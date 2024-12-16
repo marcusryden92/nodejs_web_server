@@ -10,3 +10,13 @@
 20241216	15:55:02	6bca496e-b6cb-4c38-b17b-7da6e2985251	GET	undefined	/
 20241216	15:55:02	20ebfbb2-6862-411d-b11e-c17352d15f5b	GET	undefined	/css/style.css
 20241216	15:59:41	e0ef3ba4-3212-4993-bd8a-7c17f392d481	GET	undefined	/
+20241216	17:15:57	fc6c9ab4-3055-4f1f-bd94-81d70a6e0bb2	GET	undefined	/
+20241216	17:15:57	0a7b922d-7b19-4bfb-abc9-cc37e7c4156d	GET	undefined	/css/style.css
+20241216	17:16:18	7817091c-934a-4112-bd71-c22719bb52bd	GET	undefined	/subdir
+20241216	17:16:33	67569bff-ebf8-4b77-9bce-e5a02726a071	GET	undefined	/test
+20241216	17:16:33	a92b466b-172a-40de-8676-6bea9e1b1fdd	GET	undefined	/css/style.css
+20241216	17:17:31	3dd9900a-966e-40b8-8436-b66b0b3d8595	GET	undefined	/test
+20241216	17:17:31	b8df1b50-49a2-4559-a899-269b224dee9b	GET	undefined	/css/style.css
+20241216	17:17:32	00491be2-e367-4b08-bf66-502f54cd5230	GET	undefined	/test
+20241216	17:17:32	534c4628-a7bb-4806-bc02-7905747a03b3	GET	undefined	/css/style.css
+20241216	17:18:33	f3e849b0-9b1e-41f1-8849-2e5d1ffcbd08	GET	undefined	/subdir/test
